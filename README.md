@@ -3,6 +3,12 @@ Account nuker very well made discord token fucker/account nuker have fun :) if y
 
 
 # Installation and Use 
+__Pip Install__
+
+-Open Cmd and type pip install selenium (For Mac use sudo pip3 install selenium)
+
+
+
 __Install Python3__
 
  -https://www.python.org/download/releases/3.0/
