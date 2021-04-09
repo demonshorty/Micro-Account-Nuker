@@ -3,20 +3,20 @@ Account nuker is a very well made discord token fucker/account nuker have fun :)
 
 
 # Installation and Use 
-__Pip Install__
+
+__Install Python3__
+
+ -https://www.python.org/download/releases/3.0/ 
+ 
+ __Pip Install__
 
 -Open Cmd and type pip install selenium (For Mac use sudo pip3 install selenium)
 
 
-
-__Install Python3__
-
- -https://www.python.org/download/releases/3.0/
-
 __Install chromedriver.exe__
-
  - https://chromedriver.chromium.org/downloads
  - For a guide on how to figure out how to figure out your chrome verison refer here https://help.zenplanner.com/hc/en-us/articles/204253654-How-to-Find-Your-Internet-Browser-Version-Number-Google-Chrome#:~:text=1)%20Click%20on%20the%20Menu,number%20can%20be%20found%20here
+ 
 
 __Clone The Rep__
 
