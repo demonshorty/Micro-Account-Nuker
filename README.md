@@ -24,8 +24,7 @@ __Run__
 
 
 
-![preview](https://user-images.githubusercontent.com/82213937/114177024-e7f0b780-9909-11eb-9c1a-acbddb024322.png)
-
+![preview](https://user-images.githubusercontent.com/82213937/114192891-ff38a080-991b-11eb-83e0-c323fcb17076.png)
 
   
 # TOS                                                                                                                                                               
