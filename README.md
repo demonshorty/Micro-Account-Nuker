@@ -1,5 +1,5 @@
 # Micro-Account-Nuker
-Account nuker very well made discord token fucker/account nuker have fun :) if you are having problems with opening the py file dm me on discord @japan#4388 for the exe file.
+Account nuker is a very well made discord token fucker/account nuker have fun :) if you are having problems with opening the py file dm me on discord @japan#4388 for the exe file.
 
 
 # Installation and Use 
